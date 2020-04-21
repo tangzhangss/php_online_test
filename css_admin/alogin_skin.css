@@ -1,0 +1,102 @@
+﻿h2.fbold
+{
+    color: #383859;
+}
+.label1
+{
+    font: 12px/2em;
+    color: #646d9f;
+    text-align: left;
+    padding-left: 8px;
+}
+.inp_L1, .inp_L2
+{
+    background: url(../images/SignUp.gif) no-repeat;
+}
+.inp_L1
+{
+    width: 114px;
+    height: 33px;
+    border: 0;
+    color: #221f2a;
+    padding-bottom: 5px;
+    background: url(../images/SignUp.gif) no-repeat;
+    cursor: hand;
+    font-weight: bold;
+}
+.inp_L2
+{
+    width: 114px;
+    height: 33px;
+    border: 0;
+    color: #d1d4e6;
+    padding-bottom: 5px;
+    background: url(../images/SignIn.gif) no-repeat 0px 1px;
+    cursor: hand;
+    font-weight: bold;
+}
+#login_container
+{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#Login_Header
+{
+    width: 100%;
+    height: 40px;
+    background: url(../images/HeaderBg.gif) repeat-x;
+}
+#Login_Content
+{
+    width: 100%;
+    clear: both;
+    height: 539px;
+    background: url(../images/wrapper_bg001.gif) repeat 0px -44px;
+}
+#Login
+{
+    width: 1002px;
+}
+.Pimg
+{
+    float: left;
+    width: 317px;
+    padding-left: 300px;
+}
+.form_alogin
+{
+    float: left;
+    width: 385px;
+}
+.login_form
+{
+    height: 90px;
+    padding-top: 200px;
+    text-align: left;
+    float: left;
+}
+#Login_Footer
+{
+    background: url(../images/Footer.gif) repeat-x;
+    background-color: #38384f;
+    line-height: 28px;
+    text-align: center;
+    margin: 0 auto;
+    clear: both;
+}
+.login_afooter:link
+{
+    color: #a1aabb;
+}
+.login_afooter:visited
+{
+    color: #a1aabb;
+    text-decoration: none;
+}
+.login_afooter:hover
+{
+    color: #bfc7d6;
+    text-decoration: none;
+}

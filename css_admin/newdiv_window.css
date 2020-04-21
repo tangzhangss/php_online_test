@@ -1,0 +1,31 @@
+﻿#AutoPostPrompt
+{
+    font-size: 14px;
+    line-height: 30px;
+    padding: 5px 5px 5px 32px;
+    background: white url(../images/loader_bar.gif) 4px 4px no-repeat;
+    border: 1px solid #FFBA00;
+    text-align: left;
+    z-index: 2008;
+    display: none;
+    position: absolute;
+}
+#AutoPostPrompt span
+{
+    color: #D63004;
+    font-weight: bold;
+    margin-left: 24px;
+}
+#PromptShade
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    filter: alpha(opacity=60);
+    -moz-opacity: .6;
+    opacity: .6;
+    display: none;
+    background-color: #5e4c0f;
+    z-index: 2007;
+}

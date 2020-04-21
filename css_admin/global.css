@@ -1,0 +1,48 @@
+﻿body
+{
+    margin: 0px;
+    font-size: 12px;
+    color: #4f556c;
+}
+form, input, select
+{
+    margin: 0px;
+    padding: 0px;
+}
+img
+{
+    border: 0px;
+}
+.float_l
+{
+    float: left;
+}
+.float_r
+{
+    float: right;
+}
+.align_c
+{
+    text-align: center;
+}
+.align_l
+{
+    text-align: left;
+}
+.align_r
+{
+    text-align: right;
+}
+a
+{
+    color: #4f556c;
+}
+A:link, A:visited, A:active
+{
+    text-decoration: none;
+}
+A:hover
+{
+    color: #0F9ECF;
+    text-decoration: underline;
+}

@@ -1,0 +1,285 @@
+﻿body
+{
+    font-size: 12px;
+    font-family: Arial, "宋体";
+}
+table td
+{
+    line-height: 26px;
+}
+.null_margin
+{
+    margin: 0px;
+}
+input
+{
+    padding-left: 2px;
+    padding-bottom: 2px;
+    border: 1px solid #aaa;
+}
+input, textarea, p, select
+{
+    font-size: 12px;
+    font-family: Arial, "宋体";
+}
+.other_input
+{
+    padding-left: 2px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    border: 1px solid #999999;
+}
+textarea
+{
+    border: 1px solid #999999;
+}
+ul
+{
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+.l_align
+{
+    text-align: left;
+}
+.c_align
+{
+    text-align: center;
+}
+.r_align
+{
+    text-align: right;
+}
+.top_valign
+{
+    vertical-align: top;
+}
+.b_valign
+{
+    vertical-align: bottom;
+}
+.m_valign
+{
+    vertical-align: middle;
+}
+.float_left
+{
+    float: left;
+}
+.float_right
+{
+    float: right;
+}
+.null_both
+{
+    clear: both;
+}
+.red_color
+{
+    color: #FF0000;
+}
+.blue_color
+{
+    color: #0033CC;
+}
+.gray_color
+{
+    color: #999999;
+}
+.bg_graycolor
+{
+    background-color: #E3E3E3;
+}
+.bg_graycolor2
+{
+    background-color: #F5F5F5;
+}
+.bg_readonly
+{
+    background-color: #eeeeff;
+}
+.input_login
+{
+    width: 120px;
+}
+.userlog_input
+{
+    width: 100px;
+}
+.userlog_varcode
+{
+    width: 60px;
+}
+.input_val
+{
+    width: 80px;
+}
+.top_margin
+{
+    margin-top: 5px;
+}
+.bottom_margin
+{
+    margin-bottom: 10px;
+}
+.over_bgcolor
+{
+    background-color: #DCE8EB;
+}
+.wordbeark
+{
+    word-break: break-all;
+}
+.bold_weight
+{
+    font-weight: bold;
+}
+.no_liststyle
+{
+    list-style: none;
+}
+.selColorStyle, .selColorStyle2
+{
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    border: solid 1px #999999;
+}
+.selColorStyle
+{
+    background: url(../images/no_color.jpg) no-repeat center center;
+}
+.filedll_ul
+{
+    clear: both;
+    margin: 0px 8px;
+    padding: 8px 0px;
+}
+li.file_item
+{
+    float: left;
+    text-align: center;
+    padding: 4px;
+    border: solid 1px #eeeeee;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    height: 106px;
+}
+li.active_fileitem
+{
+    float: left;
+    text-align: center;
+    padding: 4px;
+    border: solid 1px #999999;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+.fileitem_ul
+{
+    cursor: pointer;
+    background-color: #FFFFFF;
+    position: relative;
+}
+.fileicon
+{
+    height: 80px;
+}
+.fileitem_ul li
+{
+    line-height: 23px;
+    text-align: center;
+    display: block;
+    white-space: nowrap;
+}
+#enlarge_images
+{
+    position: absolute;
+    display: none;
+    z-index: 20;
+    border: 5px solid #efefef;
+    background-color: #FFFFFF;
+}
+#enlarge_images span
+{
+    display: block;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    padding: 0px 4px;
+}
+#enlarge_images span b
+{
+    color: #FF0000;
+    font-size: 12px;
+}
+.goback_folder
+{
+    margin: 0px 8px;
+    line-height: 20px;
+}
+.goback_folder a
+{
+    float: left;
+    padding: 4px 16px;
+    border: solid 1px #eeeeee;
+    margin-right: 2px;
+}
+.goback_folder .a_cgray
+{
+    float: left;
+    padding: 4px 16px;
+    border: solid 1px #eeeeee;
+    color: #cccccc;
+}
+.filelist_bottom
+{
+    float: left;
+    color: #FF0000;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px 8px;
+    padding: 6px 0px;
+    line-height: 20px;
+}
+.upload_uicontrol
+{
+    clear: both;
+    padding-bottom: 8px;
+    margin-left: 6px;
+    margin-right: 8px;
+}
+.editor_ebar
+{
+    clear: both;
+    display: block;
+    display: inline-block;
+    border: solid 1px #cccccc;
+    border-bottom: 0px;
+    background: url(../images/editor_ebarbg.gif) 0px -1px;
+}
+.start_ebar
+{
+    background: url(../images/editor_sebar.gif) no-repeat 1px 4px;
+}
+.editor_ebar span
+{
+    float: left;
+    display: block;
+    display: inline-block;
+    width: 18px;
+    height: 27px;
+    line-height: 27px;
+    margin: 1px;
+    padding-left: 6px;
+    padding-top: 2px;
+}
+.editor_ebar img
+{
+    height: 16px;
+    border: solid 1px #eeeeee;
+}
+.editor_ebar img:hover
+{
+    border: solid 1px #898989;
+}

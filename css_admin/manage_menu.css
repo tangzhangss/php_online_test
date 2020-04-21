@@ -1,0 +1,136 @@
+﻿.menu_body
+{
+    background: url(../Images/LeftBG.gif) repeat-y -2px 0px;
+}
+.admin_menu
+{
+    background: url(../Images/LeftBG.gif) repeat-y -2px 0px;
+    line-height: 21px;
+    height: 100%;
+}
+.admin_menu span
+{
+    margin: 0px;
+    display: block;
+}
+.menulist, .menulist ul
+{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    width: 178px;
+}
+.menulist li
+{
+    width: 178px;
+    height: 31px;
+    line-height: 31px;
+    color: #848897;
+}
+.menulist li a
+{
+    width: 178px;
+    height: 31px;
+    line-height: 31px;
+    color: #848897;
+    text-decoration: none;
+    background: url(../images/Nav.png) no-repeat -1px -91px;
+    display: block;
+}
+.menulist li a.menu_active
+{
+    width: 178px;
+    height: 31px;
+    line-height: 31px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    background: url(../images/Nav.png) no-repeat -1px -30px;
+    display: block;
+}
+.menulist li a:visited
+{
+    color: #848897;
+}
+.menulist li a.menu_active:visited
+{
+    color: #fff;
+    font-weight: bold;
+}
+.menulist li a:hover
+{
+    color: #fff;
+    font-weight: bold;
+    background: url(../images/Nav.png) no-repeat -1px -30px;
+    font-weight: bold;
+}
+.mmenu_title
+{
+    background: url(../images/Nav_Title.jpg) no-repeat -2px 0px;
+    line-height: 18px;
+    color: #383859;
+    height: 23px;
+    padding-top: 3px;
+    padding-left: 60px;
+    font-weight: bold;
+}
+.mmenu_title2
+{
+    background: url(../images/Nav_Title001.jpg) no-repeat -2px 0px;
+    line-height: 18px;
+    color: #383859;
+    height: 23px;
+    padding-top: 3px;
+    padding-left: 60px;
+    font-weight: bold;
+}
+.menu_plist p
+{
+    line-height: 20px;
+}
+.left_toplink
+{
+    background-color: #CCCCCC;
+    margin-bottom: 1px;
+    padding-left: 4px;
+}
+.TreeMenu
+{
+    padding-left: 14px;
+    margin-bottom: 5px;
+}
+.amanagemenu_div
+{
+    padding-bottom: 4px;
+}
+.amanagemenu_div span
+{
+    margin: 0px;
+    display: block;
+}
+.amanagemenu_div .left_toplink
+{
+    margin-bottom: 4px;
+}
+.amanagemenu_div img
+{
+    vertical-align: middle;
+    margin-right: 2px;
+}
+.menu_remark
+{
+    padding: 4px 18px;
+    color: #848897;
+}
+.others_manu
+{
+    padding-left: 14px;
+    vertical-align: middle;
+    padding-bottom: 6px;
+}
+.others_manu img
+{
+    padding-top: 2px;
+}
